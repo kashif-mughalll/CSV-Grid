@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CSV-Grid/static/css/main.0eabc145.css",
+    "main.js": "/CSV-Grid/static/js/main.ccf1d476.js",
+    "static/js/787.42aa447f.chunk.js": "/CSV-Grid/static/js/787.42aa447f.chunk.js",
+    "static/media/logo.svg": "/CSV-Grid/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CSV-Grid/index.html",
+    "main.0eabc145.css.map": "/CSV-Grid/static/css/main.0eabc145.css.map",
+    "main.ccf1d476.js.map": "/CSV-Grid/static/js/main.ccf1d476.js.map",
+    "787.42aa447f.chunk.js.map": "/CSV-Grid/static/js/787.42aa447f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eabc145.css",
+    "static/js/main.ccf1d476.js"
+  ]
+}
